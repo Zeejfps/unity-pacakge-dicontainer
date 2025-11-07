@@ -9,7 +9,7 @@ namespace Vas.DependencyInjection
         {
             var properties = monoBehaviour
                 .GetType()
-                .GetProperties(BindingFlags.Public);
+                .GetProperties();
 
             foreach (var property in properties)
             {
