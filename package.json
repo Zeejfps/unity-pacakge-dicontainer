@@ -1,0 +1,16 @@
+{
+    "name": "com.evasilyev.dicontainer",
+    "version": "1.0.0",
+    "displayName": "Dependency Injection Container",
+    "description": "Packaged used for simple dependency injection.",
+    "unity": "2022.3",
+    "unityRelease": "44f1",
+    "documentationUrl": "https://github.com/Zeejfps/unity-package-dicontainer",
+    "keywords": [
+      "di",
+      "dependency injection"
+    ],
+    "author": {
+      "name": "Evgeny Vasilyev"
+    }
+  }
